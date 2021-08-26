@@ -1,6 +1,10 @@
 # Java 虚拟机学习
 
-我的Java虚拟机学习笔记 ，
+![tool](https://img.shields.io/badge/tool-markdown-white.svg)
+
+![Stars](https://img.shields.io/github/stars/Tompes/JVM-Learning-Notes.svg)
+
+我的Java虚拟机学习笔记 。
 
 ## 目录
 
@@ -14,7 +18,7 @@
 
 * #### 1.1 [运行时数据区域](./1.Java内存区域/1.1运行时数据区域.md)
 
-* #### 1.2 [XXX]()
+* #### 1.2 [-]()
 
 
 
