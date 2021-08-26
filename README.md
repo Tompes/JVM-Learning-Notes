@@ -1,8 +1,6 @@
 # Java 虚拟机学习
 
-![tool](https://img.shields.io/badge/tool-markdown-white.svg)
-
-![Stars](https://img.shields.io/github/stars/Tompes/JVM-Learning-Notes.svg)
+![language](https://img.shields.io/badge/Lang-markdown-white.svg)![License](https://img.shields.io/badge/License-GPL-green.svg)
 
 我的Java虚拟机学习笔记 。
 
